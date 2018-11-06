@@ -1,0 +1,37 @@
+.btn-outline-success {
+  color: #17a2b8;
+  background-color: transparent;
+  background-image: none;
+  border-color: #17a2b8;
+}
+
+.btn-outline-success:hover,
+.btn-outline-success:active,
+.btn-outline-success:focus { 
+  color: #fff !important;
+  background-color: #17a2b8 !important;
+  border-color: #666 !important;
+}
+
+.btn-outline-success:focus, .btn-outline-success.focus {
+  box-shadow: none:!important;
+}
+
+.btn-info{
+	color: #17a2b8;
+  background-color: transparent;
+  background-image: none;
+  border-color: #17a2b8;
+}
+
+.btn-info:hover,
+.btn-info:active,
+.btn-info:focus { 
+  color: #fff !important;
+  background-color: #17a2b8 !important;
+  border-color: #666 !important;
+}
+
+.btn-info:focus, .btn-info.focus {
+  box-shadow: none:!important;
+}

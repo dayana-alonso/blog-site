@@ -1,0 +1,15 @@
+.tags {
+
+	background-color: #f4f4f4;
+	color: #17a2b8;
+	padding:5px 14px;
+	text-transform: capitalize;
+	font-size: 13px;
+	display:inline-block;
+	}
+
+
+.tag:hover {
+	background-color: #17a2b8;
+	color: #fff;
+}

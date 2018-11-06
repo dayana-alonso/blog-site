@@ -1,0 +1,15 @@
+.content-wrapper {
+	background-color: #fff;
+	width: auto;
+	padding:20px;
+	margin-bottom: 30px;
+
+}
+
+.content-wrapper a {
+	color:inherit;
+}
+.content-wrapper a:hover{
+	color:#17a2b8;
+	text-decoration: none;
+}
